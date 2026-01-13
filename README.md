@@ -10,12 +10,12 @@ The purpose of this project is to give users a place to track and write about th
 Besides the bare minimum logging and review functionality, there's also the need for an archival effort. What passes for "media literacy" online is a collective hallucination, so MustChan will gradually build a volunteer-run wiki to Set The Record Straight on selected works our Otakus have taken particular interest in. That means augmented information regarding production history, archeologically uncovered story drafts, lost developer commentaries, budgeting mysteries, production times, etc! The WHO and the HOW behind how a piece of art comes into being are important to us, so we'll make sure this is a place where this information--previously scattered all over the internet--comes to light.
 
 MustChan is a website for the art of
-Jason Jones
-Johan Nagel
-Doekuramori
-Nikita Buyanov
-Hideo Kojima
-SIR Ridley Scott
+Jason Jones,
+Johan Nagel,
+Doekuramori,
+Nikita Buyanov,
+Hideo Kojima,
+SIR Ridley Scott,
 ...to be appreciated and catalogued by those who write coherently about them and everyone like them.
 
 May the videogame science be restored, Amen.
@@ -25,7 +25,7 @@ WHY Phoenix LiveView, Elixir, and the BEAM/OTP stack?
 
 Several reasons. Namely that I, The Developer, personally like Functional Programming, Fault Tolerant Systems, and the original vision behind Erlang. In a world where things barely work most the time, Erlang and its descendants power the infrastructure of Ericsson telecommunications, WhatsApp, and Discord, to name a few. But that's enough from me, you can feel free to watch [Joe Armstrong explain his technology himself](https://www.youtube.com/watch?v=cNICGEwmXLU). 
 
-The tl;dr is that Phoenix largely Just Works(tm), Elixir is a pleasant language to write in, and the BEAM VM underneath allows it to scale to as many CPU cores and extra servers you throw at it. Problem solved, forever. It's also particularly good at keeping persistent sessions going: very important for never losing drafts of posts. Key design principle: The user should be able to yank the power cord out of their PC and come back to their writing like nothing happened.
+The tl;dr is that Phoenix largely Just Works(tm). Elixir is a pleasant language to write in, and the BEAM VM underneath allows it to scale to as many CPU cores and extra servers you throw at it. Problem solved, forever. It's also particularly good at keeping persistent sessions going: very important for never losing drafts of posts. Key design principle: The user should be able to yank the power cord out of their PC and come back to their writing like nothing happened.
 
 ## Running Things
 * First off, [Install Elixir](https://elixir-lang.org/install.html).
@@ -47,7 +47,7 @@ What I did on Arch(btw):
 * Development database name. ``createdb mustchan_dev``
 
 Database is one of those weird things where there's a million different ways of doing it. This WILL be updated for security.
-The config is in `config/dev.exs`. We got this, You got this, We got this together. Winter wrap up winter wrap uuup, that sorta thing you know.
+The config is in `config/dev.exs`. We got this, You got this, We got this together. That sorta thing.
 
 To start the Phoenix server:
 * Run `mix setup` to install and setup dependencies
