@@ -7,6 +7,7 @@ NOW:
 - [ ] /user/:username route for profiles
 
 SOON(tm):
+- [ ] More sane database configuration (user, db password, etc)
 - [ ] Works/Media schema
 - [ ] IGDB integration 
 - [ ] Searchable Works grid
