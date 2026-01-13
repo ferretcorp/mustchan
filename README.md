@@ -21,7 +21,6 @@ SIR Ridley Scott
 May the videogame science be restored, Amen.
 
 # Technical Notes
-## WHY
 WHY Phoenix LiveView, Elixir, and the BEAM/OTP stack? 
 
 Several reasons. Namely that I, The Developer, personally like Functional Programming, Fault Tolerant Systems, and the original vision behind Erlang. In a world where things barely work most the time, Erlang and its descendants power the infrastructure of Ericsson telecommunications, WhatsApp, and Discord, to name a few. But that's enough from me, you can feel free to watch [Joe Armstrong explain his technology himself](https://www.youtube.com/watch?v=cNICGEwmXLU). 
