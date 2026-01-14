@@ -2,31 +2,29 @@
 
 /* DARK THEMES */
 .limestone-dark {
-	--background:	#1c1b21;
-	--surface:		#39375a;
-	--border:       #2e3435;
+	--background:	#1a1926;
+	--surface:		#3b3a56;
+	--border:		#2d3232;
 	--text:			#c7cece;
-	--accent:		#c4d94f;
+	--accent:		#bdce5a;
 }
-
 .maud-dark {
-	--background:   #111923;
-	--surface:		#243952;
-	--border:		#2d3944;
+	--background:	#10171e;
+	--surface:		#293d53;
+	--border:		#303a41;
 	--text:			#b5b7bb;
-	--accent:		#8fcfc0;
+	--accent:		#7de1c4;
 }
-
 .marble-dark {
-	--background:	#0f1412;
-	--surface:		#2a4039;
-	--border:		#2e3938;
+	--background:	#0e1312;
+	--surface:		#2e3c35;
+	--border:		#313635;
 	--text:			#cad6d2;
-	--accent:		#a57dce;
+	--accent:		#a373d8;
 }
-
 
 /* LIGHT THEMES */
+/* WIP
 .limestone-light {
 	--background:	#c7cece;
 	--surface:		#9392b6;
@@ -34,7 +32,6 @@
 	--text:			#544f72;
 	--accent:		#98a838;
 }
-
 .maud-light {
 	--background:	#b5b7bb;
 	--surface:		#58839d;
@@ -42,12 +39,12 @@
 	--text:			#574176;
 	--accent:		#2a8b6f;
 }
-
+*/
 .marble-light {
 	--background:	#cad6d2;
-	--surface:		#8ea89b;
+	--surface:		#a5baaf;
 	--border:		#688887;
-	--text:			#324240;
+	--text:			#273332;
 	--accent:		#764494;
 }
 
@@ -60,11 +57,10 @@
 	--accent:		#0000ee;
 	--accent-visited: #551a8b;
 }
-
 .brutalist-dark {
 	--background:	#000000;
 	--surface:		#0a0a0a;
 	--border:		#ffffff;
 	--text:			#ffffff;
-	--accent:		#00ff00;	/* Terminal green */
+	--accent:		#00ff00;
 }
