@@ -9,9 +9,7 @@ The purpose of this project is to give users a place to track and write about th
 
 Besides the bare minimum logging and review functionality, there's also the need for an archival effort. What passes for "media literacy" online is a collective hallucination, so MustChan will equip its users to write assorted editorials and Set The Record Straight on whatever they've taken particular interest in. Augmented information regarding production history, archeologically uncovered story drafts, lost developer commentaries, budgeting mysteries, production times, etc! The WHO and the HOW behind how a piece of art come into being--previously scattered all over the internet--come to light.
 
-MustChan is a website for the art of
-anyone at all
-...to be appreciated and catalogued by those who write coherently aboit them.
+MustChan is a website for the art of anyone at all to be appreciated and catalogued by those who write coherently about them.
 
 May the videogame science be restored, Amen.
 
