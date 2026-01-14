@@ -1,0 +1,77 @@
+/* MUSTCHAN PIE SISTERS THEME REFERENCE - 2026-01-13 */
+
+/* DARK THEMES */
+.limestone-dark {
+	--background:	#4a495e;
+	--surface:		#9392b6;
+	--border:		#6f7a7b;
+	--text:			#c7cece;
+	--accent:		#c4d94f;
+}
+
+.maud-dark {
+	--background:	#3d5b74;
+	--surface:		#58839d;
+	--border:		#63727f;
+	--text:			#b5b7bb;
+	--accent:		#8fcfc0;
+}
+
+.marble-dark {
+	--background:	#324240;
+	--surface:		#8ea89b;
+	--border:		#778180;
+	--text:			#cad6d2;
+	--accent:		#a57dce;
+}
+
+/* LIGHT THEMES */
+.limestone-light {
+	--background:	#c7cece;
+	--surface:		#9392b6;
+	--border:		#6f7a7b;
+	--text:			#544f72;
+	--accent:		#98a838;
+}
+
+.maud-light {
+	--background:	#b5b7bb;
+	--surface:		#58839d;
+	--border:		#3d5b74;
+	--text:			#574176;
+	--accent:		#2a8b6f;
+}
+
+.marble-light {
+	--background:	#cad6d2;
+	--surface:		#8ea89b;
+	--border:		#688887;
+	--text:			#324240;
+	--accent:		#764494;
+}
+
+/* DEBUG THEMES */
+.brutalist-light {
+	--background:	#ffffff;
+	--surface:		#f5f5f5;
+	--border:		#000000;
+	--text:			#000000;
+	--accent:		#0000ee;
+	--accent-visited: #551a8b;
+}
+
+.brutalist-dark {
+	--background:	#000000;
+	--surface:		#0a0a0a;
+	--border:		#ffffff;
+	--text:			#ffffff;
+	--accent:		#00ff00;	/* Terminal green */
+}
+
+/* DAISYUI MAPPING
+base-100: background
+base-200: surface
+base-300: border
+base-content: text
+primary/accent: accent
+*/
