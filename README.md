@@ -7,16 +7,11 @@ The internet is broken. It is OUR job to fix it. We shall do so against all odds
 
 The purpose of this project is to give users a place to track and write about their favorite media, particularly video games. 
 
-Besides the bare minimum logging and review functionality, there's also the need for an archival effort. What passes for "media literacy" online is a collective hallucination, so MustChan will gradually build a volunteer-run wiki to Set The Record Straight on selected works our Otakus have taken particular interest in. That means augmented information regarding production history, archeologically uncovered story drafts, lost developer commentaries, budgeting mysteries, production times, etc! The WHO and the HOW behind how a piece of art comes into being are important to us, so we'll make sure this is a place where this information--previously scattered all over the internet--comes to light.
+Besides the bare minimum logging and review functionality, there's also the need for an archival effort. What passes for "media literacy" online is a collective hallucination, so MustChan will equip its users to write assorted editorials and Set The Record Straight on whatever they've taken particular interest in. Augmented information regarding production history, archeologically uncovered story drafts, lost developer commentaries, budgeting mysteries, production times, etc! The WHO and the HOW behind how a piece of art come into being--previously scattered all over the internet--come to light.
 
 MustChan is a website for the art of
-Jason Jones,
-Johan Nagel,
-Doekuramori,
-Nikita Buyanov,
-Hideo Kojima,
-SIR Ridley Scott,
-...to be appreciated and catalogued by those who write coherently about them and everyone like them.
+anyone at all
+...to be appreciated and catalogued by those who write coherently aboit them.
 
 May the videogame science be restored, Amen.
 

@@ -2,28 +2,29 @@
 
 /* DARK THEMES */
 .limestone-dark {
-	--background:	#4a495e;
-	--surface:		#9392b6;
-	--border:		#6f7a7b;
+	--background:	#1c1b21;
+	--surface:		#39375a;
+	--border:       #2e3435;
 	--text:			#c7cece;
 	--accent:		#c4d94f;
 }
 
 .maud-dark {
-	--background:	#3d5b74;
-	--surface:		#58839d;
-	--border:		#63727f;
+	--background:   #111923;
+	--surface:		#243952;
+	--border:		#2d3944;
 	--text:			#b5b7bb;
 	--accent:		#8fcfc0;
 }
 
 .marble-dark {
-	--background:	#324240;
-	--surface:		#8ea89b;
-	--border:		#778180;
+	--background:	#0f1412;
+	--surface:		#2a4039;
+	--border:		#2e3938;
 	--text:			#cad6d2;
 	--accent:		#a57dce;
 }
+
 
 /* LIGHT THEMES */
 .limestone-light {
@@ -67,11 +68,3 @@
 	--text:			#ffffff;
 	--accent:		#00ff00;	/* Terminal green */
 }
-
-/* DAISYUI MAPPING
-base-100: background
-base-200: surface
-base-300: border
-base-content: text
-primary/accent: accent
-*/
