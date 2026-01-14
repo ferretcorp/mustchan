@@ -4,23 +4,29 @@
 .limestone-dark {
 	--background:	#1a1926;
 	--surface:		#3b3a56;
-	--border:		#2d3232;
-	--text:			#c7cece;
-	--accent:		#bdce5a;
+	--border:		#4b4a66;
+	--text:			#d2d8d8;
+	--accent:		#c7da61;
+	--surface-2:	color-mix(in srgb, var(--surface) 85%, var(--background));
+	--divider:		color-mix(in srgb, var(--border) 70%, var(--background));
 }
 .maud-dark {
 	--background:	#10171e;
 	--surface:		#293d53;
-	--border:		#303a41;
-	--text:			#b5b7bb;
+	--border:		#3b5266;
+	--text:			#c2c5ca;
 	--accent:		#7de1c4;
+	--surface-2:	color-mix(in srgb, var(--surface) 85%, var(--background));
+	--divider:		color-mix(in srgb, var(--border) 70%, var(--background));
 }
 .marble-dark {
 	--background:	#0e1312;
 	--surface:		#2e3c35;
 	--border:		#313635;
-	--text:			#cad6d2;
+	--text:			#d6e1de;
 	--accent:		#a373d8;
+	--surface-2:	color-mix(in srgb, var(--surface) 85%, var(--background));
+	--divider:		color-mix(in srgb, var(--border) 70%, var(--background));
 }
 
 /* LIGHT THEMES */
@@ -42,10 +48,12 @@
 */
 .marble-light {
 	--background:	#cad6d2;
-	--surface:		#a5baaf;
-	--border:		#688887;
+	--surface:		#b6c9c0;
+	--border:		#5d7a78;
 	--text:			#273332;
-	--accent:		#764494;
+	--accent:		#6d3e90;
+	--surface-2:	color-mix(in srgb, var(--surface) 85%, var(--background));
+	--divider:		color-mix(in srgb, var(--border) 70%, var(--background));
 }
 
 /* DEBUG THEMES */
