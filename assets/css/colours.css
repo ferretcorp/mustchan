@@ -1,6 +1,6 @@
-/* MUSTCHAN PIE SISTERS THEME REFERENCE - 2026-01-13 */
+/* MUSTCHAN THEME DEFINITIONS - 2026-01-26 */
 
-/* DARK THEMES */
+/* ROCK FARM */
 .limestone-dark {
 	--background:	#1a1926;
 	--surface:		#3b3a56;
@@ -9,6 +9,7 @@
 	--accent:		#c7da61;
 	--surface-2:	color-mix(in srgb, var(--surface) 85%, var(--background));
 	--divider:		color-mix(in srgb, var(--border) 70%, var(--background));
+	--glow:			none;
 }
 .maud-dark {
 	--background:	#10171e;
@@ -18,6 +19,7 @@
 	--accent:		#7de1c4;
 	--surface-2:	color-mix(in srgb, var(--surface) 85%, var(--background));
 	--divider:		color-mix(in srgb, var(--border) 70%, var(--background));
+	--glow:			none;
 }
 .marble-dark {
 	--background:	#0e1312;
@@ -27,25 +29,8 @@
 	--accent:		#a373d8;
 	--surface-2:	color-mix(in srgb, var(--surface) 85%, var(--background));
 	--divider:		color-mix(in srgb, var(--border) 70%, var(--background));
+	--glow:			none;
 }
-
-/* LIGHT THEMES */
-/* WIP
-.limestone-light {
-	--background:	#c7cece;
-	--surface:		#9392b6;
-	--border:		#6f7a7b;
-	--text:			#544f72;
-	--accent:		#98a838;
-}
-.maud-light {
-	--background:	#b5b7bb;
-	--surface:		#58839d;
-	--border:		#3d5b74;
-	--text:			#574176;
-	--accent:		#2a8b6f;
-}
-*/
 .marble-light {
 	--background:	#cad6d2;
 	--surface:		#b6c9c0;
@@ -54,16 +39,39 @@
 	--accent:		#6d3e90;
 	--surface-2:	color-mix(in srgb, var(--surface) 85%, var(--background));
 	--divider:		color-mix(in srgb, var(--border) 70%, var(--background));
+	--glow:			none;
 }
 
-/* DEBUG THEMES */
+/* DESERT TEMPLE */
+.desert-temple {
+	--background:	#f8d8af;
+	--surface:		#f9dbb5;
+	--border:		#ad683b;
+	--text:			#161826;
+	--accent:		#0d5f18;
+	--surface-2:	color-mix(in srgb, var(--surface) 85%, var(--background));
+	--divider:		color-mix(in srgb, var(--border) 70%, var(--background));
+	--glow:			rgba(139, 90, 43, 0.15);
+}
+.desert-temple-ii {
+	--background:	#f8d8af;
+	--surface:		#f9dbb5;
+	--border:		#6f4f2e;
+	--text:			#000000;
+	--accent:		#8d2b17;
+	--surface-2:	color-mix(in srgb, var(--surface) 85%, var(--background));
+	--divider:		color-mix(in srgb, var(--border) 70%, var(--background));
+	--glow:			rgba(139, 90, 43, 0.15);
+}
+
+/* BRUTALIST */
 .brutalist-light {
 	--background:	#ffffff;
 	--surface:		#f5f5f5;
 	--border:		#000000;
 	--text:			#000000;
 	--accent:		#0000ee;
-	--accent-visited: #551a8b;
+	--glow:			none;
 }
 .brutalist-dark {
 	--background:	#000000;
@@ -71,4 +79,28 @@
 	--border:		#ffffff;
 	--text:			#ffffff;
 	--accent:		#00ff00;
+	--glow:			none;
 }
+
+/* WIP */
+.limestone-light {
+	--background:	#c7cece;
+	--surface:		#9392b6;
+	--border:		#6f7a7b;
+	--text:			#544f72;
+	--accent:		#98a838;
+	--surface-2:	color-mix(in srgb, var(--surface) 85%, var(--background));
+	--divider:		color-mix(in srgb, var(--border) 70%, var(--background));
+	--glow:			none;
+}
+.maud-light {
+	--background:	#b5b7bb;
+	--surface:		#58839d;
+	--border:		#3d5b74;
+	--text:			#574176;
+	--accent:		#2a8b6f;
+	--surface-2:	color-mix(in srgb, var(--surface) 85%, var(--background));
+	--divider:		color-mix(in srgb, var(--border) 70%, var(--background));
+	--glow:			none;
+}
+
